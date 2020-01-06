@@ -1,0 +1,43 @@
+[
+    {
+        "empname":"Suresh KC",
+        "department":"Software"
+    },
+    {
+        "empname":"Rajesh Shrestha",
+        "department":"Hardware"
+    },
+    {
+        "empname":"Mohan Thapa",
+        "department":"Network"
+    },
+    {
+        "empname":"Anusha Khadka",
+        "department":"Software"
+    },
+    {
+        "empname":"Ritishma Aryal",
+        "department":"Support"
+    },
+    {
+        "empname":"Umesh Maharjan",
+        "department":"Software"
+    },
+    {
+        "empname":"Binod Karki",
+        "department":"Support"
+    },
+    {
+        "empname":"Kamal Lamichhane",
+        "department":"Network"
+    },
+    {
+        "empname":"Sujan Gautam",
+        "department":"Hardware"
+    },
+    {
+        "empname":"Ashok Tamang",
+        "department":"Software"
+    }
+
+]
